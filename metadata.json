@@ -1,0 +1,6 @@
+{
+  "name": "PUNCH OUT",
+  "description": "PUNCH HARD, PUNCH OUT. The official Roblox battle game website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
